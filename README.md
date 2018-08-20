@@ -14,4 +14,8 @@
   - in和is運算子
 4. 字串
 
-
+## 資料儲存容器 List
+1. tuple
+2. list
+3. dict
+4. set
