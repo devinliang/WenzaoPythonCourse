@@ -1,11 +1,10 @@
 # Python Tutorials
 
-[主要內容](content.md)
-
 ## Python 簡介
+
 ## Python 開發環境
 
-## Python 資料型別
+## Python 資料類型
 1. 輸出與輸入
 2. 資料型別
 3. 變數
