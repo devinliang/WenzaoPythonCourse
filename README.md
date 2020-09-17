@@ -32,4 +32,6 @@
 
 6. ## 上課網址
 
+    * [文藻雲端學園](https://elearning2.wzu.edu.tw){:target="_blank"}
+
     * 文藻雲端學園 - https://elearning2.wzu.edu.tw
