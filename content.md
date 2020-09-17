@@ -1,6 +1,6 @@
-# Python Tutorials
+# 課程內容
 
-1. ## 簡介
+1. [Python 簡介](01.introduction.md)
 
 2. ## 開發環境
 
@@ -22,9 +22,10 @@
         - 字串內建函式
 
 5. ## 數字
-  * int
-  * float
-  * complex
+
+   * int
+   * float
+   * complex
 
 6. ## 文字/字串
 
