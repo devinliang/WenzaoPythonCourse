@@ -2,9 +2,9 @@
 
 1. [Python 簡介](01.introduction.md)
 
-2. ## 開發環境
+2. [程式安裝與開發環境](02.environment.md)
 
-3. ## 資料類型
+3. [資料類型](03.datatype.md)
 
 4. ## 變數
 
