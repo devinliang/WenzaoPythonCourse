@@ -1,4 +1,15 @@
-輸入以下語法：
+# Python 的設計哲學
+
+Python之父是荷蘭人Guido van Rossum，被譽為歷史上最偉大的12名程式設計師之一。他在設計Python時，目的是設計出一種優美而強大，提供給非專業程序設計師使用的語言，同時採取開放策略，使Python能夠完美結合如C 、 C++和Java等其他語言。
+
+> 原文網址：https://kknews.cc/design/k8egq58.html
+
+Python之父是荷蘭人Guido van Rossum，被譽為歷史上最偉大的12名程式設計師之一。他在設計Python時，目的是設計出一種優美而強大，提供給非專業程序設計師使用的語言，同時採取開放策略，使Python能夠完美結合如C 、 C++和Java等其他語言。
+
+> 原文網址：https://kknews.cc/design/k8egq58.html
+
+
+在 python 輸入以下語法：
 
     import this
     
