@@ -29,6 +29,8 @@
 
 6. ## 文字/字串
 
+7.
+8.
 
 ## comprehension 與 generator
 
